@@ -25,3 +25,18 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.centered-container {
+  display: flex;
+  flex-direction: column; /* Stack items vertically */
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+/* Add a separate style for the headline */
+.headline {
+  margin-bottom: 20px; /* Add some space between the headline and the button */
+  font-size: 8vw;
+  font-weight: bold;
+}
