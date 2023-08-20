@@ -3,7 +3,8 @@
     display: block;
     margin: 0 auto;
     padding: 15px 30px;
-    font-size: 1.5vw;
+    font-size: 1.5rem;
+    font-weight: lighter;
     background-color: #3e3c94;
     color: white;
     border: none;
